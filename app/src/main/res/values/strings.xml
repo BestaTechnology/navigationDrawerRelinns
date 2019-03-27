@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">navigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="snack_bar">This is Snackbar funtioning</string>
+    <string name="camera_message">Camera was clicked</string>
+    <string name="gallery_message">gallery was clicked</string>
+    <string name="slide_message">Slide show was clicked</string>
+    <string name="navigation_string">Navigation was clicked</string>
+    <string name="navigation_send">Navigation send was clicked</string>
+</resources>
